@@ -1,0 +1,10 @@
+/*
+内页样式表
+*/
+body {
+    min-width: 750px;
+    padding: 5px;
+}
+section.content {
+    background-color: #f7f7f7;
+}
